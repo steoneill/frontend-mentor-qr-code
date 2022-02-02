@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+
+import "@fontsource/outfit/400.css"
+import "@fontsource/outfit/700.css"
